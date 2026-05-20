@@ -9,7 +9,7 @@ A museum-quality physical media library featuring automated, genre-reactive ligh
 - **Control:** WLED via the Gladopto 4D Elite controller.
 
 ## 🛠️ Technical Stack
-- **Remote Access:** Cloudflare Tunnel (`ha.mediaroulette.com`) & Tailscale.
+- **Remote Access:** Cloudflare Tunnel & Tailscale.
 - **Automation:** Jinja2-powered "Braking Logic" for realistic roulette deceleration.
 - **Metadata:** iCollect database mapping physical spine locations to LED indices.
 
